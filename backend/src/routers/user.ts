@@ -15,7 +15,7 @@ import { Connection, PublicKey, Transaction } from "@solana/web3.js";
 
 const connection = new Connection(process.env.RPC_URL ?? "");
 
-const PARENT_WALLET_ADDRESS = "2KeovpYvrgpziaDsq8nbNMP4mc48VNBVXb5arbqrg9Cq";
+const PARENT_WALLET_ADDRESS = "CarCPZ2r3rxS7shR1ua1pRmG8yWmD3hP91sfXkqosjfZ";
 
 const DEFAULT_TITLE = "Select the most clickable thumbnail";
 
